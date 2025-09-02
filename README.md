@@ -54,21 +54,20 @@ python cyberrecon.py --hash 5f4dcc3b5aa765d61d8327deb882cf99 --crack
 python cyberrecon.py --target 192.168.1.0/24 --audit full
 ```
 
-## ⚠️ Disclaimer
+## ⚠️ Sorumluluk Reddi
 
-This tool is for **EDUCATIONAL PURPOSES ONLY**. Use only on systems you own or have explicit permission to test. The authors are not responsible for any misuse.
+Bu araç **YALNIZCA EĞİTİM AMAÇLIDIR**. Yalnızca sahip olduğunuz veya test etmek için açık izniniz olan sistemlerde kullanın. Yazarlar, herhangi bir kötüye kullanımdan sorumlu değildir.
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
  **NOT: Beliri bir stara geldiği zaman paylaştırılacaktır**
- 
- **Proje eğitim amaçlı yapılmıştır herhangi bir sorumluluk kabul etmiyorum**
 
 ---
 
 **Made with ❤️ by the harleywashere.**
+
 
 
 
