@@ -62,13 +62,13 @@ This tool is for **EDUCATIONAL PURPOSES ONLY**. Use only on systems you own or h
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/cyberrecon-pro&type=Date)](https://star-history.com/#yourusername/cyberrecon-pro&Date)
+ **NOT: Beliri bir stara geldiği zaman paylaştırılacaktır**
+ **Proje eğitim amaçlı yapılmıştır herhangi bir sorumluluk kabul etmiyorum**
 
 ---
 
 **Made with ❤️ by the harleywashere.**
+
 
 
 
