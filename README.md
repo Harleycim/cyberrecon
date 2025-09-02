@@ -62,10 +62,6 @@ This tool is for **EDUCATIONAL PURPOSES ONLY**. Use only on systems you own or h
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yourusername/cyberrecon-pro&type=Date)](https://star-history.com/#yourusername/cyberrecon-pro&Date)
@@ -73,3 +69,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 **Made with ❤️ by the CyberRecon Team**
+
