@@ -56,7 +56,7 @@ python cyberrecon.py --target 192.168.1.0/24 --audit full
 
 ## ⚠️ Sorumluluk Reddi
 
-Bu araç **YALNIZCA EĞİTİM AMAÇLIDIR**. Yalnızca sahip olduğunuz veya test etmek için açık izniniz olan sistemlerde kullanın. Yazarlar, herhangi bir kötüye kullanımdan sorumlu değildir.
+Bu araç **YALNIZCA EĞİTİM AMAÇLIDIR**. Yalnızca sahip olduğunuz veya test etmek için açık izniniz olan sistemlerde kullanın. Yazar, herhangi bir kötüye kullanımdan sorumlu değildir.
 
 ## 📝 License
 
@@ -67,6 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ by the harleywashere.**
+
 
 
 
