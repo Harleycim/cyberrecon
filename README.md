@@ -29,7 +29,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/cyberrecon.git
-cd cyberrecon-pro
+cd cyberrecon
 
 # Install dependencies
 pip install -r requirements.txt
@@ -67,6 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ by the harleywashere.**
+
 
 
 
